@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ObserverPattern"
+    ""
   ],
-  "SelectedNode": "\\ObserverPattern\\Subject.cpp",
+  "SelectedNode": "\\StatePattern",
   "PreviewInSolutionExplorer": false
 }
